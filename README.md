@@ -1,9 +1,8 @@
 ﻿# Intro_ml_summative
- # Brain Tumor MRI Classification: Bridging Healthcare Gaps with AI
-
+ # **Brain Tumor MRI Classification: Bridging Healthcare Gaps with AI**
 AI-powered brain tumor detection achieving 90% accuracy with computational efficiency for global healthcare accessibility
 
-🌟 **Overview**
+# **Overview**
 This research demonstrates how artificial intelligence can democratize access to neurological diagnostics by providing accurate, computationally efficient brain tumor classification. Our comprehensive comparison of classical machine learning and deep learning approaches shows that transfer learning can achieve radiologist-level performance while maintaining deployability in resource-constrained environments.
 
 Key Achievement: 90% accuracy with MobileNetV2 transfer learning, exceeding human expert performance while requiring only modest computational resources.
@@ -58,14 +57,15 @@ Strategy: Frozen base + custom classification head
 Fine-tuning: Selective layer unfreezing for medical domain adaptation
 
 
-## Quick Start
+## **Quick Start**
 Installation
 
 # Clone repository
 <pre>
 git clone https://github.com/pauline12ish34/Intro_ml_summative.git
-cd brain-tumor-classification
+cd Intro_ml_summative
 </pre>
+
 
 
 
